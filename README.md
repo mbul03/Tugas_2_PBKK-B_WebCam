@@ -33,7 +33,7 @@ using System.Windows.Forms;
 using AForge.Video;
 using AForge.Video.DirectShow;
 
-namespace Aplikasi_Kamera_PBBK_D
+namespace Aplikasi_Kamera_PBKK_B
 {
     public partial class Form1 : Form
     {
